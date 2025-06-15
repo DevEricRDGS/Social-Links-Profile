@@ -1,0 +1,10 @@
+@media(max-width:450px){
+    .profiles .profile{
+        width: 90%;
+        height: 90%;
+    }
+
+    .profiles .profile img{
+        width: 86px;
+    }
+}

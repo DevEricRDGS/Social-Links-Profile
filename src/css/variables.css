@@ -1,0 +1,7 @@
+:root{
+    --color-local: hsl(75, 94%, 57%);
+    --color-text: hsl(0, 0%, 100%);
+    --element-color-social-network: hsl(0, 0%, 20%);
+    --color-bg-user: hsl(0, 0%, 12%);
+    --color-bg-profile: hsl(0, 0%, 8%);
+}
