@@ -12,7 +12,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -26,9 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-#### Desktop
-
-#### Mobile
+![Image](https://github.com/user-attachments/assets/cdea3b72-cca5-4c70-93c8-ea9515f28733)
 
 ### Links
 
